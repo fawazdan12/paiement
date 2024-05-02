@@ -1,0 +1,1 @@
+Page de payement juste pour s'entraînée avec du html css et le framework tailwincss
